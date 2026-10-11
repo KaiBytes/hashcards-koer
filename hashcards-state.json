@@ -191,13 +191,13 @@
       "reviewCount": 1
     },
     "478bbbc78837723954c8dc7576e86b08c1e10520925878f48003ec895ffd087b": {
-      "lastReviewedAt": "2026-10-11T09:52:26.500Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
-      "intervalDays": 0,
-      "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "lastReviewedAt": "2026-10-11T10:00:11.049Z",
+      "stability": 0.833709359223116,
+      "difficulty": 7.629716592535107,
+      "intervalRaw": 0.8337093592231157,
+      "intervalDays": 1,
+      "dueDate": "2026-10-12",
+      "reviewCount": 2
     },
     "4c87b0b0eca3ab6ca4f2a0a25b562a2fb7fdd19e5f394c6e95071b1255a87097": {
       "lastReviewedAt": "2026-04-07T15:53:59.312Z",
@@ -578,22 +578,22 @@
       "reviewCount": 2
     },
     "98d47e4ed7104178f92afa7cada6a755f2e06f0c19f3cbd66ef7905ff8d69bcc": {
-      "lastReviewedAt": "2026-10-11T09:54:33.111Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
-      "intervalDays": 0,
-      "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "lastReviewedAt": "2026-10-11T10:00:21.953Z",
+      "stability": 2.2650094350890533,
+      "difficulty": 7.176636167311107,
+      "intervalRaw": 2.2650094350890524,
+      "intervalDays": 2,
+      "dueDate": "2026-10-13",
+      "reviewCount": 2
     },
     "9bfe59db499da8e902009304b2a26ca2223c37927f7e24c2b3fc2ba7dd278bc5": {
-      "lastReviewedAt": "2026-10-11T09:52:47.454Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
-      "intervalDays": 0,
-      "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "lastReviewedAt": "2026-10-11T10:00:17.521Z",
+      "stability": 2.2650094350890533,
+      "difficulty": 7.176636167311107,
+      "intervalRaw": 2.2650094350890524,
+      "intervalDays": 2,
+      "dueDate": "2026-10-13",
+      "reviewCount": 2
     },
     "9c8ebed5c68b1c1dd6f379832f2be3512b541724dcb434e48de65ddfbef02122": {
       "lastReviewedAt": "2026-03-09T19:41:23.029Z",
@@ -830,13 +830,13 @@
       "reviewCount": 11
     },
     "ccdf41fee878146a4c577a66c05ace063e4057a15a4dcc51f368fa87b6e13d84": {
-      "lastReviewedAt": "2026-10-11T09:53:15.522Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
-      "intervalDays": 0,
-      "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "lastReviewedAt": "2026-10-11T10:00:25.885Z",
+      "stability": 2.2650094350890533,
+      "difficulty": 7.176636167311107,
+      "intervalRaw": 2.2650094350890524,
+      "intervalDays": 2,
+      "dueDate": "2026-10-13",
+      "reviewCount": 2
     },
     "cde3fc4583a7705b07c00fd2e1acc2dc5e789080363bd85642c20abc5a7a41df": {
       "lastReviewedAt": "2026-03-08T20:36:40.511Z",
