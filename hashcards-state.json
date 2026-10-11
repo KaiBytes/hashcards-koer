@@ -614,13 +614,13 @@
       "reviewCount": 1
     },
     "a200a136a74aab19e565cd518255e33cbfb275a9b4767d68c98f3d10a39a4b90": {
-      "lastReviewedAt": "2026-10-11T09:48:59.405Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
+      "lastReviewedAt": "2026-10-11T10:01:05.528Z",
+      "stability": 0.164438286289835,
+      "difficulty": 8.082797017759107,
+      "intervalRaw": 0.16443828628983495,
       "intervalDays": 0,
       "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     "a6621cd599a8c01ebe0c0bc96350e88c0e05ff806483b88e65807f42e2505644": {
       "lastReviewedAt": "2026-03-09T16:22:04.363Z",
@@ -659,13 +659,13 @@
       "reviewCount": 1
     },
     "a8e8b8bc10b6ac86200af863ba1bea8f6173ca7186263d04abd66b1dfe09f8a7": {
-      "lastReviewedAt": "2026-10-11T09:48:06.976Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
-      "intervalDays": 0,
-      "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "lastReviewedAt": "2026-10-11T10:01:12.526Z",
+      "stability": 2.2650094350890533,
+      "difficulty": 7.176636167311107,
+      "intervalRaw": 2.2650094350890524,
+      "intervalDays": 2,
+      "dueDate": "2026-10-13",
+      "reviewCount": 2
     },
     "ad1123b3ba1c21a58b6172126597efbb54b19af0be4eccca1866798f4e7793e0": {
       "lastReviewedAt": "2026-04-17T14:46:06.037Z",
@@ -929,13 +929,13 @@
       "reviewCount": 2
     },
     "f250588b1bfaf9620fe72928db4a1ddd8b1c9b3148956353b82c239cc5b68b1d": {
-      "lastReviewedAt": "2026-10-11T09:48:45.563Z",
-      "stability": 0.40255,
-      "difficulty": 7.1949,
-      "intervalRaw": 0.4025499999999999,
-      "intervalDays": 0,
-      "dueDate": "2026-10-11",
-      "reviewCount": 1
+      "lastReviewedAt": "2026-10-11T10:01:19.891Z",
+      "stability": 2.2650094350890533,
+      "difficulty": 7.176636167311107,
+      "intervalRaw": 2.2650094350890524,
+      "intervalDays": 2,
+      "dueDate": "2026-10-13",
+      "reviewCount": 2
     },
     "f343d7636a6cfd0f23e7b75ba8918f8753266d951a9e8218db5a083fb8276aa6": {
       "lastReviewedAt": "2026-05-01T16:26:23.667Z",
