@@ -614,13 +614,13 @@
       "reviewCount": 1
     },
     "a200a136a74aab19e565cd518255e33cbfb275a9b4767d68c98f3d10a39a4b90": {
-      "lastReviewedAt": "2026-10-11T10:01:05.528Z",
-      "stability": 0.164438286289835,
-      "difficulty": 8.082797017759107,
-      "intervalRaw": 0.16443828628983495,
+      "lastReviewedAt": "2026-10-11T10:01:45.938Z",
+      "stability": 0.4489756918865882,
+      "difficulty": 8.370115944608788,
+      "intervalRaw": 0.4489756918865881,
       "intervalDays": 0,
       "dueDate": "2026-10-11",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     "a6621cd599a8c01ebe0c0bc96350e88c0e05ff806483b88e65807f42e2505644": {
       "lastReviewedAt": "2026-03-09T16:22:04.363Z",
