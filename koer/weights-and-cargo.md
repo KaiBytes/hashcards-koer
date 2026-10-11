@@ -6,62 +6,72 @@ A: In the vehicle registration certificate (vognkort), in the "Weights" section.
 ---
 
 Q: Example registration certificate: what is the maximum braked trailer weight, and the maximum unbraked trailer weight?
-A: Braked: 1300 kg. Unbraked: 687 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: Braked: 1300 kg. Unbraked: 687 kg.
 
 ---
 
 C: In the example certificate, the permitted trailer weight is [1300 kg] with brakes and [687 kg] without brakes.
 
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
 ---
 
 Q: Example registration certificate: what is the permitted roof load?
-A: 75 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 75 kg.
 
 ---
 
 Q: Example registration certificate: what is the permissible coupling (towball) load?
-A: 100 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 100 kg.
 
 ---
 
 Q: Example registration certificate: what is the allowed total weight of the car?
-A: 1870 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 1870 kg.
 
 ---
 
 Q: Example registration certificate: what is the permitted payload including passengers?
-A: 495 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 495 kg.
 
 ---
 
 Q: Example registration certificate: what is the net weight with driver?
-A: 1375 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 1375 kg.
 
 ---
 
 Q: Example registration certificate: what are the permissible axle loads?
-A: 977 kg (front) / 960 kg (rear).
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 977 kg (front) / 960 kg (rear).
 
 ---
 
 Q: Example registration certificate: what is the permitted weight of the car and trailer combined?
-A: 3170 kg.
 
 ![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
+A: 3170 kg.
 
 ---
 
