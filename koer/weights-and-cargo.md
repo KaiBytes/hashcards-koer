@@ -1,10 +1,14 @@
 Q: Where do you find the maximum towable trailer mass for your car?
 A: In the vehicle registration certificate (vognkort), in the "Weights" section.
 
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
 ---
 
 Q: Example registration certificate: what is the maximum braked trailer weight, and the maximum unbraked trailer weight?
 A: Braked: 1300 kg. Unbraked: 687 kg.
+
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
 
 ---
 
@@ -15,35 +19,49 @@ C: In the example certificate, the permitted trailer weight is [1300 kg] with br
 Q: Example registration certificate: what is the permitted roof load?
 A: 75 kg.
 
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
 ---
 
 Q: Example registration certificate: what is the permissible coupling (towball) load?
 A: 100 kg.
+
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
 
 ---
 
 Q: Example registration certificate: what is the allowed total weight of the car?
 A: 1870 kg.
 
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
 ---
 
 Q: Example registration certificate: what is the permitted payload including passengers?
 A: 495 kg.
+
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
 
 ---
 
 Q: Example registration certificate: what is the net weight with driver?
 A: 1375 kg.
 
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
 ---
 
 Q: Example registration certificate: what are the permissible axle loads?
 A: 977 kg (front) / 960 kg (rear).
 
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
+
 ---
 
 Q: Example registration certificate: what is the permitted weight of the car and trailer combined?
 A: 3170 kg.
+
+![Registration certificate, weights section](images/registration-certificate-weights.jpg)
 
 ---
 

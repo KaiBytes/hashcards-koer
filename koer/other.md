@@ -25,6 +25,8 @@ A: Reachable from the driver's seat, e.g. door pocket, glove compartment or unde
 Q: How do you check the battery?
 A: Confirm it is firmly attached and the terminals are clean.
 
+![Engine bay, labelled (combustion car)](images/engine-bay-labelled.png)
+
 ---
 
 Q: What is the risk of a loose battery?
@@ -50,10 +52,14 @@ A: Visually check the cabin and store loose items where they cannot cause damage
 Q: How do you test the windshield wipers and washer?
 A: Turn on the front and rear wipers and test all settings. Wet the glass with washer fluid first, because wiping a dry windshield wears the blades faster.
 
+![Wiper stalk](images/wiper-stalk.png)
+
 ---
 
 Q: Where is the windscreen washer fluid reservoir?
 A: Under the hood; open the hood and identify the container.
+
+![Engine bay, labelled (combustion car)](images/engine-bay-labelled.png)
 
 ---
 
@@ -94,22 +100,24 @@ A: Children and short people, who can be injured if the airbag deploys. Especial
 
 ---
 
-Q: How do you check the engine oil level?
+Q: [COMBUSTION CAR ONLY – not your EV] How do you check the engine oil level?
 A: Open the hood and check that the oil is between the min and max marks on the dipstick.
+
+![Engine bay, labelled (combustion car)](images/engine-bay-labelled.png)
 
 ---
 
-Q: What if the car has no dipstick?
+Q: [COMBUSTION CAR ONLY – not your EV] What if the car has no dipstick?
 A: Newer cars monitor oil level automatically; low oil triggers a dashboard warning.
 
 ---
 
-Q: What should you do if the oil warning lamp is red?
+Q: [COMBUSTION CAR ONLY – not your EV] What should you do if the oil warning lamp is red?
 A: Stop the car immediately. Do not drive to a workshop, as it risks engine damage.
 
 ---
 
-Q: Do electric cars use engine oil?
+Q: [ELECTRIC CAR] Do electric cars use engine oil?
 A: No.
 
 ---
@@ -146,3 +154,17 @@ Q: Where is the parking brake button on the example car?
 A: On the center console, next to the gear lever (electric parking brake).
 
 ![Dashboard controls](images/dashboard-controls.png)
+
+---
+
+Q: Wiper stalk: what are the positions/symbols?
+A: Front windshield wiper (OFF / AUTO / speeds), front windshield washer, back windshield washer, back wiper continuous low speed, and back wiper continuous high speed.
+
+![Wiper stalk](images/wiper-stalk.png)
+
+---
+
+Q: Engine bay overview: which items can you be asked to point out?
+A: Brake booster, brake fluid reservoir, engine oil filler, engine oil dipstick, battery, engine coolant, and washer fluid. (Photo shows a combustion car; an EV has no engine oil, dipstick or engine coolant in the same way, so ask your instructor where things are in your car.)
+
+![Engine bay, labelled (combustion car)](images/engine-bay-labelled.png)

@@ -1,14 +1,16 @@
-Q: How do you check the brake booster (fossil-fuel cars)?
+Q: [COMBUSTION CAR ONLY – not your EV] How do you check the brake booster (fossil-fuel cars)?
 A: With the engine off, press the brake pedal 5–6 times to empty the booster. Hold the pedal down and start the engine. The pedal should sink, because engine power now assists braking.
+
+![Engine bay, labelled (combustion car)](images/engine-bay-labelled.png)
 
 ---
 
-Q: What does it mean if the brake booster does not work?
+Q: [COMBUSTION CAR ONLY – not your EV] What does it mean if the brake booster does not work?
 A: The car is not legal to drive.
 
 ---
 
-Q: Why does a towed car brake poorly?
+Q: [COMBUSTION CAR ONLY – not your EV] Why does a towed car brake poorly?
 A: With the engine off there is no brake booster assistance.
 
 ---
@@ -17,6 +19,8 @@ Q: Where is the brake fluid reservoir and how do you check it?
 A: In the engine compartment, in front of the brake pedal. Check the fluid level visually.
 
 ![Brake fluid reservoir in the engine bay](images/brake-fluid-reservoir.png)
+
+![Engine bay, labelled (combustion car)](images/engine-bay-labelled.png)
 
 ---
 
@@ -70,5 +74,5 @@ A: Yes, you can continue driving safely (brakes still work without ABS), but the
 
 ---
 
-Q: What is regeneration control in electric cars?
+Q: [ELECTRIC CAR] What is regeneration control in electric cars?
 A: Adjusting how strongly the car brakes (and recharges) when you lift off the accelerator. Not all EVs allow it; on the school's cars it is adjusted with two levers behind the steering wheel.
